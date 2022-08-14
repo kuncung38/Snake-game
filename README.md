@@ -4,6 +4,7 @@ First program created by me
 click on SnakeGame.exe to play
 
 
+--------------------------
 Pros:
 
 -Rainbow snake :D
