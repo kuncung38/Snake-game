@@ -94,7 +94,3 @@ class Snake:
         s.onkeypress(self.headeast, "Right")
         s.onkeypress(self.headnorth, "Up")
         s.onkeypress(self.headsouth, "Down")
-
-    def clear_snake(self):
-        t.re
-    
